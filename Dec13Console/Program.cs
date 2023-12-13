@@ -11,7 +11,8 @@ namespace Dec13Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("whats up");//class.method
+            Console.WriteLine("whats up");//class.
+            Console.WriteLine("hello World ");
             Console.ReadLine();
         }
     }// how to execute of result
